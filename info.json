@@ -1,0 +1,12 @@
+{
+	"name": "BiolabsNeedNutrients",
+	"version": "1.0.0",
+	"title": "Biolabs Need Nutrients",
+	"author": "StephenB",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0",
+		"space-age"
+	],
+	"description": "Biolabs now use nutrients instead of electric power"
+}
